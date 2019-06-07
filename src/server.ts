@@ -1,6 +1,7 @@
-import * as express from "express";
+import * as express from 'express';
 
 const app = express();
-const server = app.listen(()=>{
-    console.log('server started: ',server.address())
+const server = app.listen(() => {
+  /*tslint:disable-next-line*/
+  console.log('server started: ', server.address());
 });
