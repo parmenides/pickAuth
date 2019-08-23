@@ -1,2 +1,2 @@
 # pickAuth
-Radius based authentication and authorization solution
+Radius based authentication and authorization solutions
